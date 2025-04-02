@@ -1,3 +1,3 @@
 import UIKit
 
-var greeting = "Hello, playground"
+var greeting = "what a beautiful day isn't it?"
